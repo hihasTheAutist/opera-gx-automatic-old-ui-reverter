@@ -34,7 +34,7 @@ I managed to recreate the bug, but i like really fast closed and opened it, bord
 
 -----------------------------------------------------------------------------------------------------
 
-Manual PERMANENT OPTION! (this could be risky as opera gx might be able to not function properly).
+# Manual PERMANENT OPTION! (this could be risky as opera gx might be able to not function properly).
 
 
 Locate the "Local State" file in "C:\Users\YOURUSERNAME\AppData\Roaming\Opera Software\Opera GX Stable"
