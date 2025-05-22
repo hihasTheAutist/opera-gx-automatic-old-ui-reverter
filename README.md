@@ -21,3 +21,14 @@ How to properly automate it? Locate the downloaded app, go to: C:\Users\YOURUSER
 
 
 [Download Precompiled EXE](https://github.com/hihasTheAutist/opera-gx-automatic-old-ui-reverter/blob/main/Project5.exe)
+
+Manual PERMANENT OPTION! (this could be risky as opera gx might be able to not function properly).
+
+
+Locate the "Local State" file in "C:\Users\YOURUSERNAME\AppData\Roaming\Opera Software\Opera GX Stable"
+
+
+Right Click -> Properties -> Tick "Read-Only" window -> Go to "Security" tab -> Click "edit" -> select your account -> tick "Write" in the "Deny" options.
+
+
+This works, i tested it, opera is unable to revert back to the old looks, but it can't update this file at all, future updates might cause issues with this method.
