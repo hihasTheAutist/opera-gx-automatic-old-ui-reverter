@@ -24,6 +24,16 @@ How to properly automate it? Locate the downloaded app, go to: C:\Users\YOURUSER
 
 -----------------------------------------------------------------------------------------------------
 
+# Troubleshooting:
+
+I'm aware of a bug where the app sometimes doesn't work (happens if you rapidly close and opne the browser).
+
+I'm not able to fix it, troubleshoot would be to just restart it slower bruh, give the app time to think.
+
+I managed to recreate the bug, but i like really fast closed and opened it, borderline windows laggy, so it should be fine.
+
+-----------------------------------------------------------------------------------------------------
+
 Manual PERMANENT OPTION! (this could be risky as opera gx might be able to not function properly).
 
 
