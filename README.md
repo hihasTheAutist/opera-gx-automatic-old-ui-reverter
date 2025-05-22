@@ -23,6 +23,8 @@ How to properly automate it? Locate the downloaded app, go to: C:\Users\YOURUSER
 [Download Precompiled EXE](https://github.com/hihasTheAutist/opera-gx-automatic-old-ui-reverter/blob/main/Project5.exe)
 
 Here's how it looks:
+
+
 ![Description](https://cdn.discordapp.com/attachments/734747183122874398/1375017469319712768/Screenshot_4250.png?ex=6830284f&is=682ed6cf&hm=15bb8caf0524f6a180605678b3e12c8ebdc0b1a9da320e4b814732d8d26b8cff&)
 ![Description](https://cdn.discordapp.com/attachments/734747183122874398/1375017469051273246/Screenshot_4251.png?ex=6830284f&is=682ed6cf&hm=f587950e22ca97425ee989479f86d64af8394432d586d76cc154bdde947ef16e&)
 
