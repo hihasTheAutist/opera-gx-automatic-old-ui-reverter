@@ -30,7 +30,7 @@ Manual PERMANENT OPTION! (this could be risky as opera gx might be able to not f
 Locate the "Local State" file in "C:\Users\YOURUSERNAME\AppData\Roaming\Opera Software\Opera GX Stable"
 
 
-Right Click -> Properties -> Tick "Read-Only" window -> Go to "Security" tab -> Click "edit" -> select your account -> tick "Write" in the "Deny" options.
+Right Click -> Properties -> Tick "Read-Only" option -> Go to "Security" tab -> Click "edit" -> select your account -> tick "Write" in the "Deny" options.
 
 
 This works, i tested it, opera is unable to revert back to the old looks, but it can't update this file at all, future updates might cause issues with this method.
