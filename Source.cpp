@@ -96,7 +96,7 @@ DWORD WINAPI MonitorOpera(LPVOID) {
             hasPatched = false;
         }
 
-        Sleep(3000);
+        Sleep(500);
     }
 
     return 0;
