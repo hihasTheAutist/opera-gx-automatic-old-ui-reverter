@@ -17,7 +17,7 @@ I used visual studio 2022, compile using v143 toolkit, /std:c++20, Default Legac
 !!!TO COMPILE YOU NEED: https://github.com/nlohmann/json/releases/download/v3.12.0/json.hpp!!! (put it in the same folder as the .cpp file).
 
 
-How to properly automate it? Locate the downloaded app, go to: C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup and put a shortcut file to the app in there (you can right click the app, click "make shortcut" and just put the shortcut in that folder and it works).
+How to properly automate it? Locate the downloaded app, go to: C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup and put a shortcut file to the downloaded app in there (you can right click the app, click "make shortcut" and just put the shortcut in that folder and it works).
 
 
 [Download Precompiled EXE](https://github.com/hihasTheAutist/opera-gx-automatic-old-ui-reverter/blob/main/Project5.exe)
