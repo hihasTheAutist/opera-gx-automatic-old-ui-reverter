@@ -11,7 +11,7 @@ Or download the precompiled exe by me (scroll down a bit for it).
 
 
 Compilation:
-I used visual studio 2022, compile using v143 toolkit, /std:c++20, Default Legacy MSVC compiler, 64 bit, multibyte character set, /SUBSYSTEM:WINDOWS, and as "Releaxe x64".
+I used visual studio 2022, compile using v143 toolkit, /std:c++20, Default Legacy MSVC compiler, 64 bit, multibyte character set, /SUBSYSTEM:WINDOWS, and as "Release x64".
 
 
 !!!TO COMPILE YOU NEED: https://github.com/nlohmann/json/releases/download/v3.12.0/json.hpp!!! (put it in the same folder as the .cpp file).
