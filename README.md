@@ -7,7 +7,7 @@ App that automizes reverting back to old ui.
 As of recent (may 2025) opera gx enforced the new ugly UI, we don't want it, lets boycott!
 This app runs in system tray, and reverts back to old ui automatically for you!
 You can either compile it yourself (its open source, the source code is above, so you can see for yourself no viruses here).
-Or download the precompiled exe by me.
+Or download the precompiled exe by me (scroll down a bit for it).
 
 
 Compilation:
