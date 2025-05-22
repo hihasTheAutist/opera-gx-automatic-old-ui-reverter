@@ -26,7 +26,7 @@ How to properly automate it? Locate the downloaded app, go to: C:\Users\YOURUSER
 
 # Troubleshooting:
 
-I'm aware of a bug where the app sometimes doesn't work (happens if you rapidly close and opne the browser).
+I'm aware of a bug where the app sometimes doesn't work (happens if you rapidly close and open the browser).
 
 I'm not able to fix it, troubleshoot would be to just restart it slower bruh, give the app time to think.
 
