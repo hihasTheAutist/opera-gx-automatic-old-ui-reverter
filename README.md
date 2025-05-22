@@ -22,6 +22,8 @@ How to properly automate it? Locate the downloaded app, go to: C:\Users\YOURUSER
 
 [Download Precompiled EXE](https://github.com/hihasTheAutist/opera-gx-automatic-old-ui-reverter/blob/main/Project5.exe)
 
+-----------------------------------------------------------------------------------------------------
+
 Manual PERMANENT OPTION! (this could be risky as opera gx might be able to not function properly).
 
 
