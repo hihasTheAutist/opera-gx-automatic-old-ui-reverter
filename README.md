@@ -35,9 +35,13 @@ Here's how it looks:
 
 I'm aware of a bug where the app sometimes doesn't work (happens if you rapidly close and open the browser).
 
-I'm not able to fix it, troubleshoot would be to just restart it slower bruh, give the app time to think.
+I'm not able to fix it, troubleshoot would be to just restart opera gx slower bruh, give the app time to think.
 
-I managed to recreate the bug, but i like really fast closed and opened it, borderline windows laggy, so it should be fine.
+I managed to recreate the bug, but i like really fast closed and opened opera gx, borderline windows laggy, so it should be fine.
+
+
+This app doesn't require administrator rights to work properly.
+
 
 -----------------------------------------------------------------------------------------------------
 
