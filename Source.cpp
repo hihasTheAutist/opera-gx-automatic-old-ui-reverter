@@ -33,7 +33,7 @@ std::string GetAppDataPath() {
 }
 
 const std::string configPath = GetAppDataPath() + "\\Opera Software\\Opera GX Stable\\Local State";
-// we are where we need to be
+// path to the shit file
 
 bool hasPatched = false;
 //sanity check
@@ -57,7 +57,7 @@ bool IsOperaRunning() {
         }
     CloseHandle(snapshot);
     return false;
-    } //logic of the works
+    }
 
 void PatchConfig() {
     try {
@@ -125,7 +125,6 @@ void ShowContextMenu(HWND hwnd) {
     TrackPopupMenu(hMenu, TPM_BOTTOMALIGN | TPM_LEFTALIGN, pt.x, pt.y, 0, hwnd, NULL);
     PostMessage(hwnd, WM_NULL, 0, 0);
 }
-//more tray icon shits, display yada yada
 
 LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
     switch (msg) {
@@ -149,7 +148,6 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
     }
     return 0;
 }
-//running the process
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int) {
     const char CLASS_NAME[] = "OperaGXCorrecterWindowClass";
@@ -178,4 +176,3 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int) {
 
     return 0;
 }
-//process is running
