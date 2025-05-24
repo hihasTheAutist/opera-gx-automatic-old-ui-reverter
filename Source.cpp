@@ -5,7 +5,6 @@
 #include <fstream>
 #include <string>
 #include "json.hpp"
-//includes defines technical shits
 
 using json = nlohmann::json;
 //download "json.hpp" from https://github.com/nlohmann/json/releases, i used version 3.12.0
@@ -16,7 +15,6 @@ using json = nlohmann::json;
 
 NOTIFYICONDATAA nid = { 0 };
 HMENU hMenu;
-//tray ui shits
 
 const std::string operaExe = "opera.exe";
 
@@ -44,10 +42,8 @@ bool IsOperaRunning() {
     if (Process32First(snapshot, &entry)) {
         do {
 #ifdef UNICODE
-            // If UNICODE (i dunno preference thing, do whatever ya want with it peeps) use wcsicmp with szExeFile as wchar_t[]
             if (_wcsicmp(entry.szExeFile, L"opera.exe") == 0) {
 #else
-            // ANSI version (for preferences)
             if (_stricmp(entry.szExeFile, "opera.exe") == 0) {
 #endif
                 CloseHandle(snapshot);
@@ -78,7 +74,7 @@ void PatchConfig() {
         }
     }
     catch (...) {
-        // ignore (optionally add logs if someone wants
+        // ignore (optionally add logs if someone wants)
     }
 }
 //the config has been corrected at this point
