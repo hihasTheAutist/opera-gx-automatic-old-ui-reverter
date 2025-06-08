@@ -25,8 +25,8 @@ How to properly automate it? Locate the downloaded app, go to: C:\Users\YOURUSER
 Here's how it looks:
 
 
-https://cdn.discordapp.com/attachments/734747183122874398/1375017469319712768/Screenshot_4250.png?ex=6830284f&is=682ed6cf&hm=15bb8caf0524f6a180605678b3e12c8ebdc0b1a9da320e4b814732d8d26b8cff&
-https://cdn.discordapp.com/attachments/734747183122874398/1375017469051273246/Screenshot_4251.png?ex=6830284f&is=682ed6cf&hm=f587950e22ca97425ee989479f86d64af8394432d586d76cc154bdde947ef16e&
+![Description](https://cdn.discordapp.com/attachments/734747183122874398/1375017469319712768/Screenshot_4250.png?ex=684691cf&is=6845404f&hm=6861e42ee6068d4b2012106602792fadf9626f28604f25f6575a068868208219&)
+![Description](https://cdn.discordapp.com/attachments/734747183122874398/1375017469051273246/Screenshot_4251.png?ex=684691cf&is=6845404f&hm=d64075d48aa9bff88ef45d86408a1628481e03a1dd23b1c58762f6ff5c14b524&)
 
 
 -----------------------------------------------------------------------------------------------------
