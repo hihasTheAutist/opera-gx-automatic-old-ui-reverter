@@ -1,6 +1,11 @@
 # Opera GX Automatic Old UI reverter!
 
 
+# Update 26.06.2025
+It stopped working, im investigating it, and hoping opera didn't lock us with this ugly new UI permanently.
+Im also working on an update that would bring the buttons back (as recently minimize, maximize, and close buttons have disappeared)
+
+
 App that automizes reverting back to old ui.
 
 
