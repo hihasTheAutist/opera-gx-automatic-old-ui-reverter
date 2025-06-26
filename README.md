@@ -6,6 +6,9 @@ It stopped working, im investigating it, and hoping opera didn't lock us with th
 Im also working on an update that would bring the buttons back (as recently minimize, maximize, and close buttons have disappeared)
 
 
+-----------------------------------------------------------------------------------------------------
+
+
 App that automizes reverting back to old ui.
 
 
