@@ -3,8 +3,14 @@
 
 # Update 29.06.2025
 Opera clamped down on the UI, as of right now the only way to bring back old ui, is to download an earlier build and remove the auto updater exe.
+
+
 Since this project was made specifically to avoid that, it is closed.
+
+
 It was a short ride, but a good one, i wish you all a happy day.
+
+
 (Personally im already switching browsers)
 
 
